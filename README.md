@@ -41,7 +41,7 @@ Here are some of the technologies and tools I work with:
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-%2300C853.svg?style=for-the-badge&logo=codeforces&logoColor=white)  
 ![API Development](https://img.shields.io/badge/API%20Development-%23FF6D00.svg?style=for-the-badge&logo=postman&logoColor=white)  
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%234285F4.svg?style=for-the-badge&logo=openai&logoColor=white) 
-![Team Management](https://img.shields.io/badge/Prompt%20Engineering-%234285F4.svg?style=for-the-badge&logo=openai&logoColor=white) 
+
 
 ### 🛠️ Projects
 
